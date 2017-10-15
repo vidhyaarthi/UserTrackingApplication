@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Map Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error_invalid_email">Invalid Username</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required">This is a required field</string>
+    <string name="prompt_email">Enter email</string>
+    <string name="prompt_password">Enter password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_incorrect_password">Incorrect Password or You havent registered with Deepstream</string>
+
+    <string name="app_url">wss://154.deepstreamhub.com?apiKey=6b48e7d6-74d4-431d-b063-a6030fef740c</string>
+</resources>
